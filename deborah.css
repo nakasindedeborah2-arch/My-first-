@@ -1,0 +1,38 @@
+button {
+    background-color: rgb(175, 245, 245);
+    padding: 10px;
+    width: 200px;
+}
+input {
+    padding: 10px;
+    width: 200px;
+}
+h1 {
+    color: rgb(224, 198, 247);
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h2 {
+    color: rgb(252, 249, 245);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+p {
+    color: rgb(224, 224, 250);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 300;
+}
+a {
+    color: rgb(243, 243, 245);
+    font-family: fantasy;
+}
+body {
+    background-image: url("/Images/flower2.webp");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url("/Images/flower2.webp") center / cover no-repeat;
+}
